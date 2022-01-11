@@ -1,0 +1,28 @@
+{
+	"baseTheory": true,
+	"clientServerArchitecture": true,
+	"http": {
+	"requests": "methods",
+	"response": "codes"
+},
+	"json": "true",
+	"xml": "true",
+	"api": "autotests",
+	"postman": "apiTesting",
+	"logs": true,
+{
+	"httpSniffing": "charles",
+	"httpSniffing1": "fiddler"
+},
+	"devtools": "true",
+	"vpn": "true",
+
+	"mobileTesting": {
+	"iOS": "special aspects",
+	"android": "diffs",
+	"guidelines": true
+	},
+
+	"cannotDoItAnyMore": true
+
+}
